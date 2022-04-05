@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+click here to have a view of my project https://rijosamuelgeorgemovieapp.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
